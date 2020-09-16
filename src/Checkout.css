@@ -1,0 +1,17 @@
+.chectout_add {
+    width: 70%;
+    /* margin-bottom: 10px; */
+    height: 100px;
+}
+
+.checkout {
+    display: flex;
+    background-color: white;
+    padding: 20px;
+    height: max-content;
+}
+
+.checkout_title {
+    margin-right: 10px;
+    border-bottom: 1px solid lightgray;
+}
